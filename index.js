@@ -85,7 +85,6 @@ const questions = [
  
 
           licensefunction = licensegenerator.testlicense(license);
-          console.log(licensefunction);
           writeToFile();
 
           
